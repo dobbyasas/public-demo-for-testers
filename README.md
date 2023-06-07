@@ -1,6 +1,6 @@
 # Public demo of Raspustitsa for testers
 
-Raspustitsa is a captivating 2D top-down shooter game that explores the ongoing conflict between Ukraine and Russia. In addition to the core mechanics of shooting and jumping, Raspustitsa offers a unique twist - your in-game behaviour on the integrated social site will influence how other characters in the game perceive you.
+Raspustitsa is a captivating 2D top-down shooter game that explores the ongoing conflict between two imaginary eastern european countries. In addition to the core mechanics of shooting and jumping, Raspustitsa offers a unique twist - your in-game behaviour on the integrated social site will influence how other characters in the game perceive you.
 
 ## Features
 - **Intense 2D top-down shooter gameplay**: Engage in exciting and fast-paced combat.
